@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "D:\\Workspace\\web3\\contracts\\test.sol": {
+      "lastModificationDate": 1686590133813,
+      "contentHash": "073c33be89fdd9dd560452759e6bd37c",
+      "sourceName": "contracts/test.sol",
+      "solcConfig": {
+        "version": "0.8.18",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">0.8.0"
+      ],
+      "artifacts": [
+        "test"
+      ]
+    }
+  }
+}
